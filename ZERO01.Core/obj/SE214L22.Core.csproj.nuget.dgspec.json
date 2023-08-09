@@ -1,0 +1,162 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\sushiba\\Desktop\\Source Code\\ZERO01.Core\\ZERO01.Core.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\sushiba\\Desktop\\Source Code\\ZERO01.Core\\ZERO01.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sushiba\\Desktop\\Source Code\\ZERO01.Core\\ZERO01.Core.csproj",
+        "projectName": "ZERO01.Core",
+        "projectPath": "C:\\Users\\sushiba\\Desktop\\Source Code\\ZERO01.Core\\ZERO01.Core.csproj",
+        "packagesPath": "C:\\Users\\sushiba\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sushiba\\Desktop\\Source Code\\ZERO01.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sushiba\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\sushiba\\Desktop\\Source Code\\ZERO01.Data\\ZERO01.Data.csproj": {
+                "projectPath": "C:\\Users\\sushiba\\Desktop\\Source Code\\ZERO01.Data\\ZERO01.Data.csproj"
+              },
+              "C:\\Users\\sushiba\\Desktop\\Source Code\\ZERO01.Shared\\ZERO01.Shared.csproj": {
+                "projectPath": "C:\\Users\\sushiba\\Desktop\\Source Code\\ZERO01.Shared\\ZERO01.Shared.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
+            "DocumentFormat.OpenXml": {
+              "target": "Package",
+              "version": "[2.13.0, )"
+            },
+            "MaterialDesignThemes": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            },
+            "Microsoft.Office.Interop.Excel": {
+              "target": "Package",
+              "version": "[15.0.4795.1000, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-arm64": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\Users\\sushiba\\Desktop\\Source Code\\ZERO01.Data\\ZERO01.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sushiba\\Desktop\\Source Code\\ZERO01.Data\\ZERO01.Data.csproj",
+        "projectName": "ZERO01.Data",
+        "projectPath": "C:\\Users\\sushiba\\Desktop\\Source Code\\ZERO01.Data\\ZERO01.Data.csproj",
+        "packagesPath": "C:\\Users\\sushiba\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sushiba\\Desktop\\Source Code\\ZERO01.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sushiba\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\sushiba\\Desktop\\Source Code\\ZERO01.Shared\\ZERO01.Shared.csproj": {
+                "projectPath": "C:\\Users\\sushiba\\Desktop\\Source Code\\ZERO01.Shared\\ZERO01.Shared.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.4.4, )"
+            },
+            "MaterialDesignThemes": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-arm64": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\Users\\sushiba\\Desktop\\Source Code\\ZERO01.Shared\\ZERO01.Shared.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sushiba\\Desktop\\Source Code\\ZERO01.Shared\\ZERO01.Shared.csproj",
+        "projectName": "ZERO01.Shared",
+        "projectPath": "C:\\Users\\sushiba\\Desktop\\Source Code\\ZERO01.Shared\\ZERO01.Shared.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    }
+  }
+}

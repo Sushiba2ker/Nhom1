@@ -1,0 +1,16 @@
+C:\Users\18521\Desktop\WorkSpace\WPF\computer-accessories-shop-management\Source Code\ZERO01.Core\bin\Release\ZERO01.Core.dll
+C:\Users\18521\Desktop\WorkSpace\WPF\computer-accessories-shop-management\Source Code\ZERO01.Core\bin\Release\ZERO01.Core.pdb
+C:\Users\18521\Desktop\WorkSpace\WPF\computer-accessories-shop-management\Source Code\ZERO01.Core\bin\Release\AutoMapper.dll
+C:\Users\18521\Desktop\WorkSpace\WPF\computer-accessories-shop-management\Source Code\ZERO01.Core\bin\Release\DocumentFormat.OpenXml.dll
+C:\Users\18521\Desktop\WorkSpace\WPF\computer-accessories-shop-management\Source Code\ZERO01.Core\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\18521\Desktop\WorkSpace\WPF\computer-accessories-shop-management\Source Code\ZERO01.Core\bin\Release\EntityFramework.dll
+C:\Users\18521\Desktop\WorkSpace\WPF\computer-accessories-shop-management\Source Code\ZERO01.Core\bin\Release\Microsoft.Office.Interop.Excel.dll
+C:\Users\18521\Desktop\WorkSpace\WPF\computer-accessories-shop-management\Source Code\ZERO01.Core\bin\Release\ZERO01.Data.dll
+C:\Users\18521\Desktop\WorkSpace\WPF\computer-accessories-shop-management\Source Code\ZERO01.Core\bin\Release\ZERO01.Shared.dll
+C:\Users\18521\Desktop\WorkSpace\WPF\computer-accessories-shop-management\Source Code\ZERO01.Core\bin\Release\ZERO01.Data.pdb
+C:\Users\18521\Desktop\WorkSpace\WPF\computer-accessories-shop-management\Source Code\ZERO01.Core\bin\Release\ZERO01.Shared.pdb
+C:\Users\18521\Desktop\WorkSpace\WPF\computer-accessories-shop-management\Source Code\ZERO01.Core\obj\Release\ZERO01.Core.csproj.AssemblyReference.cache
+C:\Users\18521\Desktop\WorkSpace\WPF\computer-accessories-shop-management\Source Code\ZERO01.Core\obj\Release\ZERO01.Core.csproj.CoreCompileInputs.cache
+C:\Users\18521\Desktop\WorkSpace\WPF\computer-accessories-shop-management\Source Code\ZERO01.Core\obj\Release\ZERO01.Core.dll
+C:\Users\18521\Desktop\WorkSpace\WPF\computer-accessories-shop-management\Source Code\ZERO01.Core\obj\Release\ZERO01.Core.pdb
+C:\Users\18521\Desktop\WorkSpace\WPF\computer-accessories-shop-management\Source Code\ZERO01.Core\obj\Release\ZERO01.Core.csproj.CopyComplete

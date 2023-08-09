@@ -1,0 +1,12 @@
+C:\Users\18521\Desktop\WorkSpace\WPF\computer-accessories-shop-management\Source Code\ZERO01.Data\bin\Release\ZERO01.Data.dll
+C:\Users\18521\Desktop\WorkSpace\WPF\computer-accessories-shop-management\Source Code\ZERO01.Data\bin\Release\ZERO01.Data.pdb
+C:\Users\18521\Desktop\WorkSpace\WPF\computer-accessories-shop-management\Source Code\ZERO01.Data\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\18521\Desktop\WorkSpace\WPF\computer-accessories-shop-management\Source Code\ZERO01.Data\bin\Release\EntityFramework.dll
+C:\Users\18521\Desktop\WorkSpace\WPF\computer-accessories-shop-management\Source Code\ZERO01.Data\bin\Release\ZERO01.Shared.dll
+C:\Users\18521\Desktop\WorkSpace\WPF\computer-accessories-shop-management\Source Code\ZERO01.Data\bin\Release\ZERO01.Shared.pdb
+C:\Users\18521\Desktop\WorkSpace\WPF\computer-accessories-shop-management\Source Code\ZERO01.Data\obj\Release\ZERO01.Data.csproj.AssemblyReference.cache
+C:\Users\18521\Desktop\WorkSpace\WPF\computer-accessories-shop-management\Source Code\ZERO01.Data\obj\Release\ZERO01.Data.Migrations.Initial.resources
+C:\Users\18521\Desktop\WorkSpace\WPF\computer-accessories-shop-management\Source Code\ZERO01.Data\obj\Release\ZERO01.Data.csproj.GenerateResource.cache
+C:\Users\18521\Desktop\WorkSpace\WPF\computer-accessories-shop-management\Source Code\ZERO01.Data\obj\Release\ZERO01.Data.csproj.CoreCompileInputs.cache
+C:\Users\18521\Desktop\WorkSpace\WPF\computer-accessories-shop-management\Source Code\ZERO01.Data\obj\Release\ZERO01.Data.dll
+C:\Users\18521\Desktop\WorkSpace\WPF\computer-accessories-shop-management\Source Code\ZERO01.Data\obj\Release\ZERO01.Data.pdb

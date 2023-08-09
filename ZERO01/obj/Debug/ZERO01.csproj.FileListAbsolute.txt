@@ -1,0 +1,397 @@
+C:\Users\sushiba\Desktop\Source Code\ZERO01\bin\Debug\ZERO01.exe.config
+C:\Users\sushiba\Desktop\Source Code\ZERO01\bin\Debug\ZERO01.exe
+C:\Users\sushiba\Desktop\Source Code\ZERO01\bin\Debug\ZERO01.pdb
+C:\Users\sushiba\Desktop\Source Code\ZERO01\bin\Debug\ControlzEx.dll
+C:\Users\sushiba\Desktop\Source Code\ZERO01\bin\Debug\EntityFramework.dll
+C:\Users\sushiba\Desktop\Source Code\ZERO01\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sushiba\Desktop\Source Code\ZERO01\bin\Debug\MahApps.Metro.dll
+C:\Users\sushiba\Desktop\Source Code\ZERO01\bin\Debug\MaterialDesignColors.dll
+C:\Users\sushiba\Desktop\Source Code\ZERO01\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\sushiba\Desktop\Source Code\ZERO01\bin\Debug\Microsoft.Windows.Design.Extensibility.dll
+C:\Users\sushiba\Desktop\Source Code\ZERO01\bin\Debug\Microsoft.Xaml.Behaviors.Design.dll
+C:\Users\sushiba\Desktop\Source Code\ZERO01\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\sushiba\Desktop\Source Code\ZERO01\bin\Debug\ZERO01.Core.dll
+C:\Users\sushiba\Desktop\Source Code\ZERO01\bin\Debug\ZERO01.Data.dll
+C:\Users\sushiba\Desktop\Source Code\ZERO01\bin\Debug\AutoMapper.dll
+C:\Users\sushiba\Desktop\Source Code\ZERO01\bin\Debug\ZERO01.Shared.dll
+C:\Users\sushiba\Desktop\Source Code\ZERO01\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\sushiba\Desktop\Source Code\ZERO01\bin\Debug\Microsoft.Windows.Design.Interaction.dll
+C:\Users\sushiba\Desktop\Source Code\ZERO01\bin\Debug\ZERO01.Core.pdb
+C:\Users\sushiba\Desktop\Source Code\ZERO01\bin\Debug\ZERO01.Data.pdb
+C:\Users\sushiba\Desktop\Source Code\ZERO01\bin\Debug\ControlzEx.pdb
+C:\Users\sushiba\Desktop\Source Code\ZERO01\bin\Debug\ControlzEx.xml
+C:\Users\sushiba\Desktop\Source Code\ZERO01\bin\Debug\EntityFramework.xml
+C:\Users\sushiba\Desktop\Source Code\ZERO01\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sushiba\Desktop\Source Code\ZERO01\bin\Debug\MahApps.Metro.pdb
+C:\Users\sushiba\Desktop\Source Code\ZERO01\bin\Debug\MahApps.Metro.xml
+C:\Users\sushiba\Desktop\Source Code\ZERO01\bin\Debug\MaterialDesignColors.pdb
+C:\Users\sushiba\Desktop\Source Code\ZERO01\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\sushiba\Desktop\Source Code\ZERO01\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\sushiba\Desktop\Source Code\ZERO01\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\sushiba\Desktop\Source Code\ZERO01\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\sushiba\Desktop\Source Code\ZERO01\bin\Debug\ZERO01.Shared.pdb
+C:\Users\sushiba\Desktop\Source Code\ZERO01\bin\Debug\de\MahApps.Metro.resources.dll
+C:\Users\sushiba\Desktop\Source Code\ZERO01\bin\Debug\en\Microsoft.Windows.Design.Extensibility.resources.dll
+C:\Users\sushiba\Desktop\Source Code\ZERO01\bin\Debug\en\Microsoft.Windows.Design.Interaction.resources.dll
+C:\Users\sushiba\Desktop\Source Code\ZERO01\obj\Debug\ZERO01.csproj.AssemblyReference.cache
+C:\Users\sushiba\Desktop\Source Code\ZERO01\obj\Debug\ZERO01.csproj.SuggestedBindingRedirects.cache
+C:\Users\sushiba\Desktop\Source Code\ZERO01\obj\Debug\View\AddCategoryProductWindow.g.cs
+C:\Users\sushiba\Desktop\Source Code\ZERO01\obj\Debug\View\AddCustomerWindow.g.cs
+C:\Users\sushiba\Desktop\Source Code\ZERO01\obj\Debug\View\AddManufactureWindow.g.cs
+C:\Users\sushiba\Desktop\Source Code\ZERO01\obj\Debug\View\AddOrderWindow.g.cs
+C:\Users\sushiba\Desktop\Source Code\ZERO01\obj\Debug\View\AddProductWindow.g.cs
+C:\Users\sushiba\Desktop\Source Code\ZERO01\obj\Debug\View\AddProviderWindow.g.cs
+C:\Users\sushiba\Desktop\Source Code\ZERO01\obj\Debug\View\AddStaffWindow.g.cs
+C:\Users\sushiba\Desktop\Source Code\ZERO01\obj\Debug\View\CustomerUserControl.g.cs
+C:\Users\sushiba\Desktop\Source Code\ZERO01\obj\Debug\View\EditCategoryProductWindow.g.cs
+C:\Users\sushiba\Desktop\Source Code\ZERO01\obj\Debug\View\EditCustomerLevelWindow.g.cs
+C:\Users\sushiba\Desktop\Source Code\ZERO01\obj\Debug\View\EditOrderWindow.g.cs
+C:\Users\sushiba\Desktop\Source Code\ZERO01\obj\Debug\View\EditProductWindow.g.cs
+C:\Users\sushiba\Desktop\Source Code\ZERO01\obj\Debug\View\HomeScreen.g.cs
+C:\Users\sushiba\Desktop\Source Code\ZERO01\obj\Debug\View\ProductUserControl.g.cs
+C:\Users\sushiba\Desktop\Source Code\ZERO01\obj\Debug\View\ListWarrantyOrderUserControl.g.cs
+C:\Users\sushiba\Desktop\Source Code\ZERO01\obj\Debug\View\LoginWindow.g.cs
+C:\Users\sushiba\Desktop\Source Code\ZERO01\obj\Debug\View\MainWindow.g.cs
+C:\Users\sushiba\Desktop\Source Code\ZERO01\obj\Debug\View\ManagementOrderUserControl.g.cs
+C:\Users\sushiba\Desktop\Source Code\ZERO01\obj\Debug\View\ReportManagementUserControl.g.cs
+C:\Users\sushiba\Desktop\Source Code\ZERO01\obj\Debug\View\StaffUserControl.g.cs
+C:\Users\sushiba\Desktop\Source Code\ZERO01\obj\Debug\View\SellUserControl.g.cs
+C:\Users\sushiba\Desktop\Source Code\ZERO01\obj\Debug\View\SettingUserControl.g.cs
+C:\Users\sushiba\Desktop\Source Code\ZERO01\obj\Debug\View\UpdateInfoStaffWindow.g.cs
+C:\Users\sushiba\Desktop\Source Code\ZERO01\obj\Debug\View\UpdatePasswordWindow.g.cs
+C:\Users\sushiba\Desktop\Source Code\ZERO01\obj\Debug\View\WarrantyOrderUserControl.g.cs
+C:\Users\sushiba\Desktop\Source Code\ZERO01\obj\Debug\App.g.cs
+C:\Users\sushiba\Desktop\Source Code\ZERO01\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\sushiba\Desktop\Source Code\ZERO01\obj\Debug\ZERO01_MarkupCompile.cache
+C:\Users\sushiba\Desktop\Source Code\ZERO01\obj\Debug\ZERO01_MarkupCompile.lref
+C:\Users\sushiba\Desktop\Source Code\ZERO01\obj\Debug\App.baml
+C:\Users\sushiba\Desktop\Source Code\ZERO01\obj\Debug\DataContext.baml
+C:\Users\sushiba\Desktop\Source Code\ZERO01\obj\Debug\View\AddCategoryProductWindow.baml
+C:\Users\sushiba\Desktop\Source Code\ZERO01\obj\Debug\View\AddCustomerWindow.baml
+C:\Users\sushiba\Desktop\Source Code\ZERO01\obj\Debug\View\AddManufactureWindow.baml
+C:\Users\sushiba\Desktop\Source Code\ZERO01\obj\Debug\View\AddOrderWindow.baml
+C:\Users\sushiba\Desktop\Source Code\ZERO01\obj\Debug\View\AddProductWindow.baml
+C:\Users\sushiba\Desktop\Source Code\ZERO01\obj\Debug\View\AddProviderWindow.baml
+C:\Users\sushiba\Desktop\Source Code\ZERO01\obj\Debug\View\AddStaffWindow.baml
+C:\Users\sushiba\Desktop\Source Code\ZERO01\obj\Debug\View\CustomerUserControl.baml
+C:\Users\sushiba\Desktop\Source Code\ZERO01\obj\Debug\View\EditCategoryProductWindow.baml
+C:\Users\sushiba\Desktop\Source Code\ZERO01\obj\Debug\View\EditCustomerLevelWindow.baml
+C:\Users\sushiba\Desktop\Source Code\ZERO01\obj\Debug\View\EditOrderWindow.baml
+C:\Users\sushiba\Desktop\Source Code\ZERO01\obj\Debug\View\EditProductWindow.baml
+C:\Users\sushiba\Desktop\Source Code\ZERO01\obj\Debug\View\HomeScreen.baml
+C:\Users\sushiba\Desktop\Source Code\ZERO01\obj\Debug\View\ProductUserControl.baml
+C:\Users\sushiba\Desktop\Source Code\ZERO01\obj\Debug\View\ListWarrantyOrderUserControl.baml
+C:\Users\sushiba\Desktop\Source Code\ZERO01\obj\Debug\View\LoginWindow.baml
+C:\Users\sushiba\Desktop\Source Code\ZERO01\obj\Debug\View\MainWindow.baml
+C:\Users\sushiba\Desktop\Source Code\ZERO01\obj\Debug\View\ManagementOrderUserControl.baml
+C:\Users\sushiba\Desktop\Source Code\ZERO01\obj\Debug\View\ReportManagementUserControl.baml
+C:\Users\sushiba\Desktop\Source Code\ZERO01\obj\Debug\View\StaffUserControl.baml
+C:\Users\sushiba\Desktop\Source Code\ZERO01\obj\Debug\View\SellUserControl.baml
+C:\Users\sushiba\Desktop\Source Code\ZERO01\obj\Debug\View\SettingUserControl.baml
+C:\Users\sushiba\Desktop\Source Code\ZERO01\obj\Debug\View\UpdateInfoStaffWindow.baml
+C:\Users\sushiba\Desktop\Source Code\ZERO01\obj\Debug\View\UpdatePasswordWindow.baml
+C:\Users\sushiba\Desktop\Source Code\ZERO01\obj\Debug\View\WarrantyOrderUserControl.baml
+C:\Users\sushiba\Desktop\Source Code\ZERO01\obj\Debug\ZERO01.g.resources
+C:\Users\sushiba\Desktop\Source Code\ZERO01\obj\Debug\ZERO01.Properties.Resources.resources
+C:\Users\sushiba\Desktop\Source Code\ZERO01\obj\Debug\ZERO01.csproj.GenerateResource.cache
+C:\Users\sushiba\Desktop\Source Code\ZERO01\obj\Debug\ZERO01.csproj.CoreCompileInputs.cache
+C:\Users\sushiba\Desktop\Source Code\ZERO01\obj\Debug\ZERO01.csproj.CopyComplete
+C:\Users\sushiba\Desktop\Source Code\ZERO01\obj\Debug\ZERO01.exe
+C:\Users\sushiba\Desktop\Source Code\ZERO01\obj\Debug\ZERO01.pdb
+C:\Users\bao\Desktop\Source Code\ZERO01\bin\Debug\ZERO01.exe.config
+C:\Users\bao\Desktop\Source Code\ZERO01\bin\Debug\ZERO01.exe
+C:\Users\bao\Desktop\Source Code\ZERO01\bin\Debug\ZERO01.pdb
+C:\Users\bao\Desktop\Source Code\ZERO01\bin\Debug\ControlzEx.dll
+C:\Users\bao\Desktop\Source Code\ZERO01\bin\Debug\EntityFramework.dll
+C:\Users\bao\Desktop\Source Code\ZERO01\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\bao\Desktop\Source Code\ZERO01\bin\Debug\MahApps.Metro.dll
+C:\Users\bao\Desktop\Source Code\ZERO01\bin\Debug\MaterialDesignColors.dll
+C:\Users\bao\Desktop\Source Code\ZERO01\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\bao\Desktop\Source Code\ZERO01\bin\Debug\Microsoft.Windows.Design.Extensibility.dll
+C:\Users\bao\Desktop\Source Code\ZERO01\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\bao\Desktop\Source Code\ZERO01\bin\Debug\ZERO01.Core.dll
+C:\Users\bao\Desktop\Source Code\ZERO01\bin\Debug\ZERO01.Data.dll
+C:\Users\bao\Desktop\Source Code\ZERO01\bin\Debug\AutoMapper.dll
+C:\Users\bao\Desktop\Source Code\ZERO01\bin\Debug\ZERO01.Shared.dll
+C:\Users\bao\Desktop\Source Code\ZERO01\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\bao\Desktop\Source Code\ZERO01\bin\Debug\stdole.dll
+C:\Users\bao\Desktop\Source Code\ZERO01\bin\Debug\ZERO01.Core.pdb
+C:\Users\bao\Desktop\Source Code\ZERO01\bin\Debug\ZERO01.Data.pdb
+C:\Users\bao\Desktop\Source Code\ZERO01\bin\Debug\ControlzEx.pdb
+C:\Users\bao\Desktop\Source Code\ZERO01\bin\Debug\ControlzEx.xml
+C:\Users\bao\Desktop\Source Code\ZERO01\bin\Debug\EntityFramework.xml
+C:\Users\bao\Desktop\Source Code\ZERO01\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\bao\Desktop\Source Code\ZERO01\bin\Debug\MahApps.Metro.pdb
+C:\Users\bao\Desktop\Source Code\ZERO01\bin\Debug\MahApps.Metro.xml
+C:\Users\bao\Desktop\Source Code\ZERO01\bin\Debug\MaterialDesignColors.pdb
+C:\Users\bao\Desktop\Source Code\ZERO01\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\bao\Desktop\Source Code\ZERO01\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\bao\Desktop\Source Code\ZERO01\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\bao\Desktop\Source Code\ZERO01\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\bao\Desktop\Source Code\ZERO01\bin\Debug\ZERO01.Shared.pdb
+C:\Users\bao\Desktop\Source Code\ZERO01\bin\Debug\de\MahApps.Metro.resources.dll
+C:\Users\bao\Desktop\Source Code\ZERO01\bin\Debug\en\Microsoft.Windows.Design.Extensibility.resources.dll
+C:\Users\bao\Desktop\Source Code\ZERO01\obj\Debug\ZERO01.csproj.AssemblyReference.cache
+C:\Users\bao\Desktop\Source Code\ZERO01\obj\Debug\ZERO01.csproj.SuggestedBindingRedirects.cache
+C:\Users\bao\Desktop\Source Code\ZERO01\obj\Debug\View\AddCategoryProductWindow.g.cs
+C:\Users\bao\Desktop\Source Code\ZERO01\obj\Debug\View\AddCustomerWindow.g.cs
+C:\Users\bao\Desktop\Source Code\ZERO01\obj\Debug\View\AddManufactureWindow.g.cs
+C:\Users\bao\Desktop\Source Code\ZERO01\obj\Debug\View\AddOrderWindow.g.cs
+C:\Users\bao\Desktop\Source Code\ZERO01\obj\Debug\View\AddProductWindow.g.cs
+C:\Users\bao\Desktop\Source Code\ZERO01\obj\Debug\View\AddProviderWindow.g.cs
+C:\Users\bao\Desktop\Source Code\ZERO01\obj\Debug\View\AddStaffWindow.g.cs
+C:\Users\bao\Desktop\Source Code\ZERO01\obj\Debug\View\CustomerUserControl.g.cs
+C:\Users\bao\Desktop\Source Code\ZERO01\obj\Debug\View\EditCategoryProductWindow.g.cs
+C:\Users\bao\Desktop\Source Code\ZERO01\obj\Debug\View\EditCustomerLevelWindow.g.cs
+C:\Users\bao\Desktop\Source Code\ZERO01\obj\Debug\View\EditOrderWindow.g.cs
+C:\Users\bao\Desktop\Source Code\ZERO01\obj\Debug\View\EditProductWindow.g.cs
+C:\Users\bao\Desktop\Source Code\ZERO01\obj\Debug\View\HomeScreen.g.cs
+C:\Users\bao\Desktop\Source Code\ZERO01\obj\Debug\View\ProductUserControl.g.cs
+C:\Users\bao\Desktop\Source Code\ZERO01\obj\Debug\View\ListWarrantyOrderUserControl.g.cs
+C:\Users\bao\Desktop\Source Code\ZERO01\obj\Debug\View\LoginWindow.g.cs
+C:\Users\bao\Desktop\Source Code\ZERO01\obj\Debug\View\MainWindow.g.cs
+C:\Users\bao\Desktop\Source Code\ZERO01\obj\Debug\View\ManagementOrderUserControl.g.cs
+C:\Users\bao\Desktop\Source Code\ZERO01\obj\Debug\View\ReportManagementUserControl.g.cs
+C:\Users\bao\Desktop\Source Code\ZERO01\obj\Debug\View\StaffUserControl.g.cs
+C:\Users\bao\Desktop\Source Code\ZERO01\obj\Debug\View\SellUserControl.g.cs
+C:\Users\bao\Desktop\Source Code\ZERO01\obj\Debug\View\SettingUserControl.g.cs
+C:\Users\bao\Desktop\Source Code\ZERO01\obj\Debug\View\UpdateInfoStaffWindow.g.cs
+C:\Users\bao\Desktop\Source Code\ZERO01\obj\Debug\View\UpdatePasswordWindow.g.cs
+C:\Users\bao\Desktop\Source Code\ZERO01\obj\Debug\View\WarrantyOrderUserControl.g.cs
+C:\Users\bao\Desktop\Source Code\ZERO01\obj\Debug\App.g.cs
+C:\Users\bao\Desktop\Source Code\ZERO01\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\bao\Desktop\Source Code\ZERO01\obj\Debug\ZERO01_MarkupCompile.cache
+C:\Users\bao\Desktop\Source Code\ZERO01\obj\Debug\ZERO01_MarkupCompile.lref
+C:\Users\bao\Desktop\Source Code\ZERO01\obj\Debug\App.baml
+C:\Users\bao\Desktop\Source Code\ZERO01\obj\Debug\DataContext.baml
+C:\Users\bao\Desktop\Source Code\ZERO01\obj\Debug\View\AddCategoryProductWindow.baml
+C:\Users\bao\Desktop\Source Code\ZERO01\obj\Debug\View\AddCustomerWindow.baml
+C:\Users\bao\Desktop\Source Code\ZERO01\obj\Debug\View\AddManufactureWindow.baml
+C:\Users\bao\Desktop\Source Code\ZERO01\obj\Debug\View\AddOrderWindow.baml
+C:\Users\bao\Desktop\Source Code\ZERO01\obj\Debug\View\AddProductWindow.baml
+C:\Users\bao\Desktop\Source Code\ZERO01\obj\Debug\View\AddProviderWindow.baml
+C:\Users\bao\Desktop\Source Code\ZERO01\obj\Debug\View\AddStaffWindow.baml
+C:\Users\bao\Desktop\Source Code\ZERO01\obj\Debug\View\CustomerUserControl.baml
+C:\Users\bao\Desktop\Source Code\ZERO01\obj\Debug\View\EditCategoryProductWindow.baml
+C:\Users\bao\Desktop\Source Code\ZERO01\obj\Debug\View\EditCustomerLevelWindow.baml
+C:\Users\bao\Desktop\Source Code\ZERO01\obj\Debug\View\EditOrderWindow.baml
+C:\Users\bao\Desktop\Source Code\ZERO01\obj\Debug\View\EditProductWindow.baml
+C:\Users\bao\Desktop\Source Code\ZERO01\obj\Debug\View\HomeScreen.baml
+C:\Users\bao\Desktop\Source Code\ZERO01\obj\Debug\View\ProductUserControl.baml
+C:\Users\bao\Desktop\Source Code\ZERO01\obj\Debug\View\ListWarrantyOrderUserControl.baml
+C:\Users\bao\Desktop\Source Code\ZERO01\obj\Debug\View\LoginWindow.baml
+C:\Users\bao\Desktop\Source Code\ZERO01\obj\Debug\View\MainWindow.baml
+C:\Users\bao\Desktop\Source Code\ZERO01\obj\Debug\View\ManagementOrderUserControl.baml
+C:\Users\bao\Desktop\Source Code\ZERO01\obj\Debug\View\ReportManagementUserControl.baml
+C:\Users\bao\Desktop\Source Code\ZERO01\obj\Debug\View\StaffUserControl.baml
+C:\Users\bao\Desktop\Source Code\ZERO01\obj\Debug\View\SellUserControl.baml
+C:\Users\bao\Desktop\Source Code\ZERO01\obj\Debug\View\SettingUserControl.baml
+C:\Users\bao\Desktop\Source Code\ZERO01\obj\Debug\View\UpdateInfoStaffWindow.baml
+C:\Users\bao\Desktop\Source Code\ZERO01\obj\Debug\View\UpdatePasswordWindow.baml
+C:\Users\bao\Desktop\Source Code\ZERO01\obj\Debug\View\WarrantyOrderUserControl.baml
+C:\Users\bao\Desktop\Source Code\ZERO01\obj\Debug\ZERO01.g.resources
+C:\Users\bao\Desktop\Source Code\ZERO01\obj\Debug\ZERO01.Properties.Resources.resources
+C:\Users\bao\Desktop\Source Code\ZERO01\obj\Debug\ZERO01.csproj.GenerateResource.cache
+C:\Users\bao\Desktop\Source Code\ZERO01\obj\Debug\ZERO01.csproj.CoreCompileInputs.cache
+C:\Users\bao\Desktop\Source Code\ZERO01\obj\Debug\ZERO01.csproj.CopyComplete
+C:\Users\bao\Desktop\Source Code\ZERO01\obj\Debug\ZERO01.exe
+C:\Users\bao\Desktop\Source Code\ZERO01\obj\Debug\ZERO01.pdb
+C:\Users\bao\Desktop\Source Code\ZERO01\bin\Debug\ZERO01.Shared.dll.config
+C:\Users\Admin\Downloads\Source Code\ZERO01\bin\Debug\ZERO01.exe.config
+C:\Users\Admin\Downloads\Source Code\ZERO01\bin\Debug\ZERO01.exe
+C:\Users\Admin\Downloads\Source Code\ZERO01\bin\Debug\ZERO01.pdb
+C:\Users\Admin\Downloads\Source Code\ZERO01\bin\Debug\ControlzEx.dll
+C:\Users\Admin\Downloads\Source Code\ZERO01\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Downloads\Source Code\ZERO01\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Downloads\Source Code\ZERO01\bin\Debug\MahApps.Metro.dll
+C:\Users\Admin\Downloads\Source Code\ZERO01\bin\Debug\MaterialDesignColors.dll
+C:\Users\Admin\Downloads\Source Code\ZERO01\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Admin\Downloads\Source Code\ZERO01\bin\Debug\Microsoft.Windows.Design.Extensibility.dll
+C:\Users\Admin\Downloads\Source Code\ZERO01\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\Admin\Downloads\Source Code\ZERO01\bin\Debug\ZERO01.Core.dll
+C:\Users\Admin\Downloads\Source Code\ZERO01\bin\Debug\ZERO01.Data.dll
+C:\Users\Admin\Downloads\Source Code\ZERO01\bin\Debug\AutoMapper.dll
+C:\Users\Admin\Downloads\Source Code\ZERO01\bin\Debug\ZERO01.Shared.dll
+C:\Users\Admin\Downloads\Source Code\ZERO01\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\Admin\Downloads\Source Code\ZERO01\bin\Debug\stdole.dll
+C:\Users\Admin\Downloads\Source Code\ZERO01\bin\Debug\ZERO01.Core.pdb
+C:\Users\Admin\Downloads\Source Code\ZERO01\bin\Debug\ZERO01.Data.pdb
+C:\Users\Admin\Downloads\Source Code\ZERO01\bin\Debug\ControlzEx.pdb
+C:\Users\Admin\Downloads\Source Code\ZERO01\bin\Debug\ControlzEx.xml
+C:\Users\Admin\Downloads\Source Code\ZERO01\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Downloads\Source Code\ZERO01\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Downloads\Source Code\ZERO01\bin\Debug\MahApps.Metro.pdb
+C:\Users\Admin\Downloads\Source Code\ZERO01\bin\Debug\MahApps.Metro.xml
+C:\Users\Admin\Downloads\Source Code\ZERO01\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Admin\Downloads\Source Code\ZERO01\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Admin\Downloads\Source Code\ZERO01\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Admin\Downloads\Source Code\ZERO01\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\Admin\Downloads\Source Code\ZERO01\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\Admin\Downloads\Source Code\ZERO01\bin\Debug\ZERO01.Shared.pdb
+C:\Users\Admin\Downloads\Source Code\ZERO01\bin\Debug\ZERO01.Shared.dll.config
+C:\Users\Admin\Downloads\Source Code\ZERO01\bin\Debug\de\MahApps.Metro.resources.dll
+C:\Users\Admin\Downloads\Source Code\ZERO01\bin\Debug\en\Microsoft.Windows.Design.Extensibility.resources.dll
+C:\Users\Admin\Downloads\Source Code\ZERO01\obj\Debug\ZERO01.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\Source Code\ZERO01\obj\Debug\ZERO01.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Downloads\Source Code\ZERO01\obj\Debug\View\AddCategoryProductWindow.g.cs
+C:\Users\Admin\Downloads\Source Code\ZERO01\obj\Debug\View\AddCustomerWindow.g.cs
+C:\Users\Admin\Downloads\Source Code\ZERO01\obj\Debug\View\AddManufactureWindow.g.cs
+C:\Users\Admin\Downloads\Source Code\ZERO01\obj\Debug\View\AddOrderWindow.g.cs
+C:\Users\Admin\Downloads\Source Code\ZERO01\obj\Debug\View\AddProductWindow.g.cs
+C:\Users\Admin\Downloads\Source Code\ZERO01\obj\Debug\View\AddProviderWindow.g.cs
+C:\Users\Admin\Downloads\Source Code\ZERO01\obj\Debug\View\AddStaffWindow.g.cs
+C:\Users\Admin\Downloads\Source Code\ZERO01\obj\Debug\View\CustomerUserControl.g.cs
+C:\Users\Admin\Downloads\Source Code\ZERO01\obj\Debug\View\EditCategoryProductWindow.g.cs
+C:\Users\Admin\Downloads\Source Code\ZERO01\obj\Debug\View\EditCustomerLevelWindow.g.cs
+C:\Users\Admin\Downloads\Source Code\ZERO01\obj\Debug\View\EditOrderWindow.g.cs
+C:\Users\Admin\Downloads\Source Code\ZERO01\obj\Debug\View\EditProductWindow.g.cs
+C:\Users\Admin\Downloads\Source Code\ZERO01\obj\Debug\View\HomeScreen.g.cs
+C:\Users\Admin\Downloads\Source Code\ZERO01\obj\Debug\View\ProductUserControl.g.cs
+C:\Users\Admin\Downloads\Source Code\ZERO01\obj\Debug\View\ListWarrantyOrderUserControl.g.cs
+C:\Users\Admin\Downloads\Source Code\ZERO01\obj\Debug\View\LoginWindow.g.cs
+C:\Users\Admin\Downloads\Source Code\ZERO01\obj\Debug\View\MainWindow.g.cs
+C:\Users\Admin\Downloads\Source Code\ZERO01\obj\Debug\View\ManagementOrderUserControl.g.cs
+C:\Users\Admin\Downloads\Source Code\ZERO01\obj\Debug\View\ReportManagementUserControl.g.cs
+C:\Users\Admin\Downloads\Source Code\ZERO01\obj\Debug\View\StaffUserControl.g.cs
+C:\Users\Admin\Downloads\Source Code\ZERO01\obj\Debug\View\SellUserControl.g.cs
+C:\Users\Admin\Downloads\Source Code\ZERO01\obj\Debug\View\SettingUserControl.g.cs
+C:\Users\Admin\Downloads\Source Code\ZERO01\obj\Debug\View\UpdateInfoStaffWindow.g.cs
+C:\Users\Admin\Downloads\Source Code\ZERO01\obj\Debug\View\UpdatePasswordWindow.g.cs
+C:\Users\Admin\Downloads\Source Code\ZERO01\obj\Debug\View\WarrantyOrderUserControl.g.cs
+C:\Users\Admin\Downloads\Source Code\ZERO01\obj\Debug\App.g.cs
+C:\Users\Admin\Downloads\Source Code\ZERO01\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Admin\Downloads\Source Code\ZERO01\obj\Debug\ZERO01_MarkupCompile.cache
+C:\Users\Admin\Downloads\Source Code\ZERO01\obj\Debug\ZERO01_MarkupCompile.lref
+C:\Users\Admin\Downloads\Source Code\ZERO01\obj\Debug\App.baml
+C:\Users\Admin\Downloads\Source Code\ZERO01\obj\Debug\DataContext.baml
+C:\Users\Admin\Downloads\Source Code\ZERO01\obj\Debug\View\AddCategoryProductWindow.baml
+C:\Users\Admin\Downloads\Source Code\ZERO01\obj\Debug\View\AddCustomerWindow.baml
+C:\Users\Admin\Downloads\Source Code\ZERO01\obj\Debug\View\AddManufactureWindow.baml
+C:\Users\Admin\Downloads\Source Code\ZERO01\obj\Debug\View\AddOrderWindow.baml
+C:\Users\Admin\Downloads\Source Code\ZERO01\obj\Debug\View\AddProductWindow.baml
+C:\Users\Admin\Downloads\Source Code\ZERO01\obj\Debug\View\AddProviderWindow.baml
+C:\Users\Admin\Downloads\Source Code\ZERO01\obj\Debug\View\AddStaffWindow.baml
+C:\Users\Admin\Downloads\Source Code\ZERO01\obj\Debug\View\CustomerUserControl.baml
+C:\Users\Admin\Downloads\Source Code\ZERO01\obj\Debug\View\EditCategoryProductWindow.baml
+C:\Users\Admin\Downloads\Source Code\ZERO01\obj\Debug\View\EditCustomerLevelWindow.baml
+C:\Users\Admin\Downloads\Source Code\ZERO01\obj\Debug\View\EditOrderWindow.baml
+C:\Users\Admin\Downloads\Source Code\ZERO01\obj\Debug\View\EditProductWindow.baml
+C:\Users\Admin\Downloads\Source Code\ZERO01\obj\Debug\View\HomeScreen.baml
+C:\Users\Admin\Downloads\Source Code\ZERO01\obj\Debug\View\ProductUserControl.baml
+C:\Users\Admin\Downloads\Source Code\ZERO01\obj\Debug\View\ListWarrantyOrderUserControl.baml
+C:\Users\Admin\Downloads\Source Code\ZERO01\obj\Debug\View\LoginWindow.baml
+C:\Users\Admin\Downloads\Source Code\ZERO01\obj\Debug\View\MainWindow.baml
+C:\Users\Admin\Downloads\Source Code\ZERO01\obj\Debug\View\ManagementOrderUserControl.baml
+C:\Users\Admin\Downloads\Source Code\ZERO01\obj\Debug\View\ReportManagementUserControl.baml
+C:\Users\Admin\Downloads\Source Code\ZERO01\obj\Debug\View\StaffUserControl.baml
+C:\Users\Admin\Downloads\Source Code\ZERO01\obj\Debug\View\SellUserControl.baml
+C:\Users\Admin\Downloads\Source Code\ZERO01\obj\Debug\View\SettingUserControl.baml
+C:\Users\Admin\Downloads\Source Code\ZERO01\obj\Debug\View\UpdateInfoStaffWindow.baml
+C:\Users\Admin\Downloads\Source Code\ZERO01\obj\Debug\View\UpdatePasswordWindow.baml
+C:\Users\Admin\Downloads\Source Code\ZERO01\obj\Debug\View\WarrantyOrderUserControl.baml
+C:\Users\Admin\Downloads\Source Code\ZERO01\obj\Debug\ZERO01.g.resources
+C:\Users\Admin\Downloads\Source Code\ZERO01\obj\Debug\ZERO01.Properties.Resources.resources
+C:\Users\Admin\Downloads\Source Code\ZERO01\obj\Debug\ZERO01.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\Source Code\ZERO01\obj\Debug\ZERO01.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Source Code\ZERO01\obj\Debug\ZERO01.csproj.CopyComplete
+C:\Users\Admin\Downloads\Source Code\ZERO01\obj\Debug\ZERO01.exe
+C:\Users\Admin\Downloads\Source Code\ZERO01\obj\Debug\ZERO01.pdb
+C:\Users\Admin\OneDrive\Máy tính\LAPTRINHWINDOW\Source Code\ZERO01\bin\Debug\ZERO01.exe.config
+C:\Users\Admin\OneDrive\Máy tính\LAPTRINHWINDOW\Source Code\ZERO01\bin\Debug\ZERO01.exe
+C:\Users\Admin\OneDrive\Máy tính\LAPTRINHWINDOW\Source Code\ZERO01\bin\Debug\ZERO01.pdb
+C:\Users\Admin\OneDrive\Máy tính\LAPTRINHWINDOW\Source Code\ZERO01\bin\Debug\ControlzEx.dll
+C:\Users\Admin\OneDrive\Máy tính\LAPTRINHWINDOW\Source Code\ZERO01\bin\Debug\EntityFramework.dll
+C:\Users\Admin\OneDrive\Máy tính\LAPTRINHWINDOW\Source Code\ZERO01\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\OneDrive\Máy tính\LAPTRINHWINDOW\Source Code\ZERO01\bin\Debug\MahApps.Metro.dll
+C:\Users\Admin\OneDrive\Máy tính\LAPTRINHWINDOW\Source Code\ZERO01\bin\Debug\MaterialDesignColors.dll
+C:\Users\Admin\OneDrive\Máy tính\LAPTRINHWINDOW\Source Code\ZERO01\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Admin\OneDrive\Máy tính\LAPTRINHWINDOW\Source Code\ZERO01\bin\Debug\Microsoft.Windows.Design.Extensibility.dll
+C:\Users\Admin\OneDrive\Máy tính\LAPTRINHWINDOW\Source Code\ZERO01\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\Admin\OneDrive\Máy tính\LAPTRINHWINDOW\Source Code\ZERO01\bin\Debug\ZERO01.Core.dll
+C:\Users\Admin\OneDrive\Máy tính\LAPTRINHWINDOW\Source Code\ZERO01\bin\Debug\ZERO01.Data.dll
+C:\Users\Admin\OneDrive\Máy tính\LAPTRINHWINDOW\Source Code\ZERO01\bin\Debug\AutoMapper.dll
+C:\Users\Admin\OneDrive\Máy tính\LAPTRINHWINDOW\Source Code\ZERO01\bin\Debug\ZERO01.Shared.dll
+C:\Users\Admin\OneDrive\Máy tính\LAPTRINHWINDOW\Source Code\ZERO01\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\Admin\OneDrive\Máy tính\LAPTRINHWINDOW\Source Code\ZERO01\bin\Debug\stdole.dll
+C:\Users\Admin\OneDrive\Máy tính\LAPTRINHWINDOW\Source Code\ZERO01\bin\Debug\ZERO01.Core.pdb
+C:\Users\Admin\OneDrive\Máy tính\LAPTRINHWINDOW\Source Code\ZERO01\bin\Debug\ZERO01.Data.pdb
+C:\Users\Admin\OneDrive\Máy tính\LAPTRINHWINDOW\Source Code\ZERO01\bin\Debug\ControlzEx.pdb
+C:\Users\Admin\OneDrive\Máy tính\LAPTRINHWINDOW\Source Code\ZERO01\bin\Debug\ControlzEx.xml
+C:\Users\Admin\OneDrive\Máy tính\LAPTRINHWINDOW\Source Code\ZERO01\bin\Debug\EntityFramework.xml
+C:\Users\Admin\OneDrive\Máy tính\LAPTRINHWINDOW\Source Code\ZERO01\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\OneDrive\Máy tính\LAPTRINHWINDOW\Source Code\ZERO01\bin\Debug\MahApps.Metro.pdb
+C:\Users\Admin\OneDrive\Máy tính\LAPTRINHWINDOW\Source Code\ZERO01\bin\Debug\MahApps.Metro.xml
+C:\Users\Admin\OneDrive\Máy tính\LAPTRINHWINDOW\Source Code\ZERO01\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Admin\OneDrive\Máy tính\LAPTRINHWINDOW\Source Code\ZERO01\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Admin\OneDrive\Máy tính\LAPTRINHWINDOW\Source Code\ZERO01\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Admin\OneDrive\Máy tính\LAPTRINHWINDOW\Source Code\ZERO01\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\Admin\OneDrive\Máy tính\LAPTRINHWINDOW\Source Code\ZERO01\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\Admin\OneDrive\Máy tính\LAPTRINHWINDOW\Source Code\ZERO01\bin\Debug\ZERO01.Shared.pdb
+C:\Users\Admin\OneDrive\Máy tính\LAPTRINHWINDOW\Source Code\ZERO01\bin\Debug\ZERO01.Shared.dll.config
+C:\Users\Admin\OneDrive\Máy tính\LAPTRINHWINDOW\Source Code\ZERO01\bin\Debug\de\MahApps.Metro.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\LAPTRINHWINDOW\Source Code\ZERO01\bin\Debug\en\Microsoft.Windows.Design.Extensibility.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\LAPTRINHWINDOW\Source Code\ZERO01\obj\Debug\ZERO01.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Máy tính\LAPTRINHWINDOW\Source Code\ZERO01\obj\Debug\ZERO01.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\OneDrive\Máy tính\LAPTRINHWINDOW\Source Code\ZERO01\obj\Debug\View\AddCategoryProductWindow.g.cs
+C:\Users\Admin\OneDrive\Máy tính\LAPTRINHWINDOW\Source Code\ZERO01\obj\Debug\View\AddCustomerWindow.g.cs
+C:\Users\Admin\OneDrive\Máy tính\LAPTRINHWINDOW\Source Code\ZERO01\obj\Debug\View\AddManufactureWindow.g.cs
+C:\Users\Admin\OneDrive\Máy tính\LAPTRINHWINDOW\Source Code\ZERO01\obj\Debug\View\AddOrderWindow.g.cs
+C:\Users\Admin\OneDrive\Máy tính\LAPTRINHWINDOW\Source Code\ZERO01\obj\Debug\View\AddProductWindow.g.cs
+C:\Users\Admin\OneDrive\Máy tính\LAPTRINHWINDOW\Source Code\ZERO01\obj\Debug\View\AddProviderWindow.g.cs
+C:\Users\Admin\OneDrive\Máy tính\LAPTRINHWINDOW\Source Code\ZERO01\obj\Debug\View\AddStaffWindow.g.cs
+C:\Users\Admin\OneDrive\Máy tính\LAPTRINHWINDOW\Source Code\ZERO01\obj\Debug\View\CustomerUserControl.g.cs
+C:\Users\Admin\OneDrive\Máy tính\LAPTRINHWINDOW\Source Code\ZERO01\obj\Debug\View\EditCategoryProductWindow.g.cs
+C:\Users\Admin\OneDrive\Máy tính\LAPTRINHWINDOW\Source Code\ZERO01\obj\Debug\View\EditCustomerLevelWindow.g.cs
+C:\Users\Admin\OneDrive\Máy tính\LAPTRINHWINDOW\Source Code\ZERO01\obj\Debug\View\EditOrderWindow.g.cs
+C:\Users\Admin\OneDrive\Máy tính\LAPTRINHWINDOW\Source Code\ZERO01\obj\Debug\View\EditProductWindow.g.cs
+C:\Users\Admin\OneDrive\Máy tính\LAPTRINHWINDOW\Source Code\ZERO01\obj\Debug\View\HomeScreen.g.cs
+C:\Users\Admin\OneDrive\Máy tính\LAPTRINHWINDOW\Source Code\ZERO01\obj\Debug\View\ProductUserControl.g.cs
+C:\Users\Admin\OneDrive\Máy tính\LAPTRINHWINDOW\Source Code\ZERO01\obj\Debug\View\ListWarrantyOrderUserControl.g.cs
+C:\Users\Admin\OneDrive\Máy tính\LAPTRINHWINDOW\Source Code\ZERO01\obj\Debug\View\LoginWindow.g.cs
+C:\Users\Admin\OneDrive\Máy tính\LAPTRINHWINDOW\Source Code\ZERO01\obj\Debug\View\MainWindow.g.cs
+C:\Users\Admin\OneDrive\Máy tính\LAPTRINHWINDOW\Source Code\ZERO01\obj\Debug\View\ManagementOrderUserControl.g.cs
+C:\Users\Admin\OneDrive\Máy tính\LAPTRINHWINDOW\Source Code\ZERO01\obj\Debug\View\ReportManagementUserControl.g.cs
+C:\Users\Admin\OneDrive\Máy tính\LAPTRINHWINDOW\Source Code\ZERO01\obj\Debug\View\StaffUserControl.g.cs
+C:\Users\Admin\OneDrive\Máy tính\LAPTRINHWINDOW\Source Code\ZERO01\obj\Debug\View\SellUserControl.g.cs
+C:\Users\Admin\OneDrive\Máy tính\LAPTRINHWINDOW\Source Code\ZERO01\obj\Debug\View\SettingUserControl.g.cs
+C:\Users\Admin\OneDrive\Máy tính\LAPTRINHWINDOW\Source Code\ZERO01\obj\Debug\View\UpdateInfoStaffWindow.g.cs
+C:\Users\Admin\OneDrive\Máy tính\LAPTRINHWINDOW\Source Code\ZERO01\obj\Debug\View\UpdatePasswordWindow.g.cs
+C:\Users\Admin\OneDrive\Máy tính\LAPTRINHWINDOW\Source Code\ZERO01\obj\Debug\View\WarrantyOrderUserControl.g.cs
+C:\Users\Admin\OneDrive\Máy tính\LAPTRINHWINDOW\Source Code\ZERO01\obj\Debug\App.g.cs
+C:\Users\Admin\OneDrive\Máy tính\LAPTRINHWINDOW\Source Code\ZERO01\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Admin\OneDrive\Máy tính\LAPTRINHWINDOW\Source Code\ZERO01\obj\Debug\ZERO01_MarkupCompile.cache
+C:\Users\Admin\OneDrive\Máy tính\LAPTRINHWINDOW\Source Code\ZERO01\obj\Debug\ZERO01_MarkupCompile.lref
+C:\Users\Admin\OneDrive\Máy tính\LAPTRINHWINDOW\Source Code\ZERO01\obj\Debug\App.baml
+C:\Users\Admin\OneDrive\Máy tính\LAPTRINHWINDOW\Source Code\ZERO01\obj\Debug\DataContext.baml
+C:\Users\Admin\OneDrive\Máy tính\LAPTRINHWINDOW\Source Code\ZERO01\obj\Debug\View\AddCategoryProductWindow.baml
+C:\Users\Admin\OneDrive\Máy tính\LAPTRINHWINDOW\Source Code\ZERO01\obj\Debug\View\AddCustomerWindow.baml
+C:\Users\Admin\OneDrive\Máy tính\LAPTRINHWINDOW\Source Code\ZERO01\obj\Debug\View\AddManufactureWindow.baml
+C:\Users\Admin\OneDrive\Máy tính\LAPTRINHWINDOW\Source Code\ZERO01\obj\Debug\View\AddOrderWindow.baml
+C:\Users\Admin\OneDrive\Máy tính\LAPTRINHWINDOW\Source Code\ZERO01\obj\Debug\View\AddProductWindow.baml
+C:\Users\Admin\OneDrive\Máy tính\LAPTRINHWINDOW\Source Code\ZERO01\obj\Debug\View\AddProviderWindow.baml
+C:\Users\Admin\OneDrive\Máy tính\LAPTRINHWINDOW\Source Code\ZERO01\obj\Debug\View\AddStaffWindow.baml
+C:\Users\Admin\OneDrive\Máy tính\LAPTRINHWINDOW\Source Code\ZERO01\obj\Debug\View\CustomerUserControl.baml
+C:\Users\Admin\OneDrive\Máy tính\LAPTRINHWINDOW\Source Code\ZERO01\obj\Debug\View\EditCategoryProductWindow.baml
+C:\Users\Admin\OneDrive\Máy tính\LAPTRINHWINDOW\Source Code\ZERO01\obj\Debug\View\EditCustomerLevelWindow.baml
+C:\Users\Admin\OneDrive\Máy tính\LAPTRINHWINDOW\Source Code\ZERO01\obj\Debug\View\EditOrderWindow.baml
+C:\Users\Admin\OneDrive\Máy tính\LAPTRINHWINDOW\Source Code\ZERO01\obj\Debug\View\EditProductWindow.baml
+C:\Users\Admin\OneDrive\Máy tính\LAPTRINHWINDOW\Source Code\ZERO01\obj\Debug\View\HomeScreen.baml
+C:\Users\Admin\OneDrive\Máy tính\LAPTRINHWINDOW\Source Code\ZERO01\obj\Debug\View\ProductUserControl.baml
+C:\Users\Admin\OneDrive\Máy tính\LAPTRINHWINDOW\Source Code\ZERO01\obj\Debug\View\ListWarrantyOrderUserControl.baml
+C:\Users\Admin\OneDrive\Máy tính\LAPTRINHWINDOW\Source Code\ZERO01\obj\Debug\View\LoginWindow.baml
+C:\Users\Admin\OneDrive\Máy tính\LAPTRINHWINDOW\Source Code\ZERO01\obj\Debug\View\MainWindow.baml
+C:\Users\Admin\OneDrive\Máy tính\LAPTRINHWINDOW\Source Code\ZERO01\obj\Debug\View\ManagementOrderUserControl.baml
+C:\Users\Admin\OneDrive\Máy tính\LAPTRINHWINDOW\Source Code\ZERO01\obj\Debug\View\ReportManagementUserControl.baml
+C:\Users\Admin\OneDrive\Máy tính\LAPTRINHWINDOW\Source Code\ZERO01\obj\Debug\View\StaffUserControl.baml
+C:\Users\Admin\OneDrive\Máy tính\LAPTRINHWINDOW\Source Code\ZERO01\obj\Debug\View\SellUserControl.baml
+C:\Users\Admin\OneDrive\Máy tính\LAPTRINHWINDOW\Source Code\ZERO01\obj\Debug\View\SettingUserControl.baml
+C:\Users\Admin\OneDrive\Máy tính\LAPTRINHWINDOW\Source Code\ZERO01\obj\Debug\View\UpdateInfoStaffWindow.baml
+C:\Users\Admin\OneDrive\Máy tính\LAPTRINHWINDOW\Source Code\ZERO01\obj\Debug\View\UpdatePasswordWindow.baml
+C:\Users\Admin\OneDrive\Máy tính\LAPTRINHWINDOW\Source Code\ZERO01\obj\Debug\View\WarrantyOrderUserControl.baml
+C:\Users\Admin\OneDrive\Máy tính\LAPTRINHWINDOW\Source Code\ZERO01\obj\Debug\ZERO01.g.resources
+C:\Users\Admin\OneDrive\Máy tính\LAPTRINHWINDOW\Source Code\ZERO01\obj\Debug\ZERO01.Properties.Resources.resources
+C:\Users\Admin\OneDrive\Máy tính\LAPTRINHWINDOW\Source Code\ZERO01\obj\Debug\ZERO01.csproj.GenerateResource.cache
+C:\Users\Admin\OneDrive\Máy tính\LAPTRINHWINDOW\Source Code\ZERO01\obj\Debug\ZERO01.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Máy tính\LAPTRINHWINDOW\Source Code\ZERO01\obj\Debug\ZERO01.csproj.CopyComplete
+C:\Users\Admin\OneDrive\Máy tính\LAPTRINHWINDOW\Source Code\ZERO01\obj\Debug\ZERO01.exe
+C:\Users\Admin\OneDrive\Máy tính\LAPTRINHWINDOW\Source Code\ZERO01\obj\Debug\ZERO01.pdb
